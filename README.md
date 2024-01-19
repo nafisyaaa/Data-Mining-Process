@@ -4,6 +4,7 @@ starting from business understanding/domain knowledge/prior knowledge, namely kn
 
 
 **Project Explanation**
+
 Carrying out a data mining process on real and current data from Twitter social media to find as much insight/information as possible from the data.
 
 
