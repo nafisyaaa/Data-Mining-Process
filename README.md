@@ -8,6 +8,7 @@ Carrying out a data mining process on real and current data from Twitter social 
 
 
 **Topic**
+
 World Cup 2022 Qatar
 
 
